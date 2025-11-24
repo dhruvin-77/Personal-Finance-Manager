@@ -1,0 +1,4 @@
+id,date,type,amount,category,note
+1,2025-11-24,income,2000.00,pocket money,
+2,2025-11-24,expense,200.00,food,cafe
+3,2025-11-24,income,100.00,,
